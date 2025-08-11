@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Estudando ReactJS<br>🎯 Em busca de ser um Front</p>
+<p align="left">📚 Estudando ReactJS<br>🎯 Em busca de ser um FullStack</p>
 
 ###
 
