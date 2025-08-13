@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Ciência da computação - Unisagrado</p>
+<h6 align="center">Ciência da computação - Unisagrado</h6>
 
 ###
 
