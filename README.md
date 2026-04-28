@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌱 <br><br>Currently: Studying Computer Science and working as a Full Stack Dev Intern at A2LF Software Development.<br><br><br><br><br>🧰 <br><br>Daily Toolbox: Node.js , React , TypeScript , Tailwind CSS & Prisma.<br><br><br><br>🔗 <br><br>In the future, pursue an academic path (Master's/Ph.D.) to unite practice with research<br><br>📫 <br><br>https://www.linkedin.com/in/devmurilolima/</p>
+<p align="left">🌱 <br><br>Currently: Studying Computer Science a.<br><br><br><br><br>🧰 <br><br>Daily Toolbox: Node.js , React , TypeScript , Tailwind CSS & Prisma.<br><br><br><br>🔗 <br><br>In the future, pursue an academic path (Master's/Ph.D.) to unite practice with research<br><br>📫 <br><br>https://www.linkedin.com/in/devmurilolima/</p>
 
 ###
 
