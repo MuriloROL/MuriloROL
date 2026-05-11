@@ -21,7 +21,7 @@
 - 🤖 **AI Developer @ NexiaLab** — building AI agents and automation pipelines that cut manual work by up to **80%**
 - 💻 **Full Stack Developer** experienced in **Node.js, React & TypeScript**
 - 🎓 **Computer Science** undergrad at **UNISAGRADO** (graduating 2027)
-- 📍 Based in **Mineiros do Tietê — SP, Brazil**
+- 📍 Based in **SP, Brazil**
 - ⚡ Currently exploring: **LangChain, n8n** & advanced **Prompt Engineering**
 - 🚀 Focused on **scalable architecture**, **Clean Code** and **AI-augmented workflows**
 
