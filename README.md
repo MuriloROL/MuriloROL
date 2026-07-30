@@ -141,7 +141,7 @@ Full-stack task manager — JWT-authenticated REST API with a mobile client, org
 
 `Django REST Framework` `JWT` `React Native / Expo` `TypeScript` `Docker`
 
-[Repo](https://github.com/MuriloROL/taskmanager)
+**[▶ Live demo](https://taskmanager-two-delta.vercel.app/)** · [Repo](https://github.com/MuriloROL/taskmanager)
 
 </td>
 <td width="50%" valign="top">
@@ -152,7 +152,7 @@ My personal portfolio — who I am, what I do, and the projects behind it.
 
 `Next.js 15` `TypeScript` `TailwindCSS`
 
-[Repo](https://github.com/MuriloROL/portfolio)
+**[▶ Live demo](https://devmurilo.xyz/)** · [Repo](https://github.com/MuriloROL/portfolio)
 
 </td>
 </tr>
