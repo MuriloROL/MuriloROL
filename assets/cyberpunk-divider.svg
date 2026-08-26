@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 22" role="img" aria-label="System divider">
+  <path d="M0 0H1178L1200 11L1178 22H0Z" fill="#000" />
+  <g fill="#fff">
+    <rect x="16" y="7" width="90" height="8" />
+    <rect x="114" y="7" width="8" height="8" />
+    <rect x="130" y="7" width="3" height="8" />
+    <rect x="141" y="7" width="18" height="8" />
+    <rect x="1090" y="7" width="3" height="8" />
+    <rect x="1101" y="7" width="8" height="8" />
+    <path d="M1120 6L1125 11L1120 16M1132 6L1137 11L1132 16M1144 6L1149 11L1144 16" fill="none" stroke="#fff" stroke-width="2" />
+  </g>
+  <path d="M174 11H1074" stroke="#fff" stroke-width="1" stroke-dasharray="24 8 3 8" opacity="0.7" />
+</svg>

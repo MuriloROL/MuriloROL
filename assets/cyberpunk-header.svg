@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Murilo Lima — Full Stack Developer</title>
+  <desc id="desc">Monochrome cyberpunk portfolio header</desc>
+
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#fff" stroke-width="1" opacity="0.06" />
+    </pattern>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <path d="M0 3.5H4" stroke="#fff" stroke-width="1" opacity="0.025" />
+    </pattern>
+    <clipPath id="frame">
+      <path d="M0 0H1140L1200 60V360H60L0 300Z" />
+    </clipPath>
+  </defs>
+
+  <path d="M0 0H1140L1200 60V360H60L0 300Z" fill="#000" />
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="360" fill="url(#grid)" />
+    <rect width="1200" height="360" fill="url(#scan)" />
+    <path d="M790-30L1120 300M930-30L1260 300" stroke="#fff" stroke-width="1" opacity="0.08" />
+    <path d="M0 318H1200" stroke="#fff" stroke-width="1" opacity="0.24" />
+  </g>
+
+  <path d="M1 1H1139L1199 61V359H61L1 299Z" fill="none" stroke="#fff" stroke-width="2" />
+  <path d="M0 46H420M780 46H1153" stroke="#fff" stroke-width="1" />
+  <path d="M420 40L432 46L420 52M780 40L768 46L780 52" fill="none" stroke="#fff" stroke-width="1" />
+
+  <g fill="#fff" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <text x="34" y="31" font-size="12" letter-spacing="2">SYS://PORTFOLIO.MRL</text>
+    <text x="1165" y="31" font-size="12" text-anchor="end" letter-spacing="2">STATUS [ONLINE]</text>
+
+    <text x="70" y="130" font-size="13" letter-spacing="4">FULL STACK DEVELOPER</text>
+    <text x="70" y="218" font-family="Arial Black, Arial, sans-serif" font-size="92" font-weight="900" letter-spacing="-4">MURILO</text>
+    <text x="448" y="218" font-family="Arial Black, Arial, sans-serif" font-size="92" font-weight="900" letter-spacing="-4" fill="#000" stroke="#fff" stroke-width="2">LIMA</text>
+
+    <text x="74" y="258" font-size="15" letter-spacing="5">AI SYSTEMS  /  SAAS  /  AUTOMATION</text>
+    <text x="74" y="299" font-size="11" letter-spacing="2" opacity="0.72">BUILDING DIGITAL EXPERIENCES WHERE AESTHETICS MEET PERFORMANCE.</text>
+    <text x="1128" y="337" font-size="11" text-anchor="end" letter-spacing="2">SAO PAULO // BR // 2026</text>
+  </g>
+
+  <g fill="#fff">
+    <rect x="1100" y="92" width="4" height="118" />
+    <rect x="1110" y="92" width="1" height="118" />
+    <rect x="1117" y="92" width="7" height="118" />
+    <rect x="1131" y="92" width="2" height="118" />
+    <rect x="1140" y="92" width="5" height="118" />
+    <rect x="1152" y="92" width="1" height="118" />
+    <rect x="1159" y="92" width="8" height="118" />
+  </g>
+
+  <path d="M22 278V68H42M1178 82V278H1158" fill="none" stroke="#fff" stroke-width="2" />
+</svg>
